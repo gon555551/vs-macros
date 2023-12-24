@@ -1,0 +1,16 @@
+__pycache__
+
+# venv
+Include
+Lib
+Scripts
+*.cfg
+
+# pyinstaller
+build
+dist
+*.spec
+
+# Helper files
+paths.json
+test.py
